@@ -1,3 +1,4 @@
 *.pth
 checkpoints/
 datasets/
+.DS_Store
